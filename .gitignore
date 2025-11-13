@@ -1,0 +1,10 @@
+.vscode
+node_modules
+.next
+help.txt
+unnecessaryFiles.txt
+pages/_document.jsx
+
+*.ini
+desktop.ini
+**/desktop.ini
